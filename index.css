@@ -15,3 +15,7 @@ body{
     background-color: lightgrey;
     
 }
+p{
+    text-align: left;
+    align-content: flex-start;
+}
