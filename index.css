@@ -18,4 +18,5 @@ body{
 p{
     text-align: left;
     align-content: flex-start;
+    font-size: 0.8em;
 }
