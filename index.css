@@ -20,3 +20,9 @@ p{
     align-content: flex-start;
     font-size: 0.8em;
 }
+#home {
+    text-align: left;
+}  
+h4{
+    font-weight: bold;
+}
