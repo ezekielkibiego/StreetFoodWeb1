@@ -15,7 +15,7 @@ li {
     font-size: 1.2em;
 }
 body{
-    background-color: lightgrey;
+    background-color: cornsilk;
     
 }
 p{
@@ -25,7 +25,22 @@ p{
 }
 #home {
     text-align: left;
-}  
-h4{
-    font-weight: bold;
+}
+.eat {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%
+}
+
+.image {
+  flex-basis: 40%
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
 }
