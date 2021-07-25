@@ -15,8 +15,8 @@ ul {
 li {
     display: inline;
     margin: 60px;
-    font-size: 1.25em;
-    margin-right: 20px;
+    font-size: 1.0em;
+    margin-right: 15px;
 }
 p{
     text-align: left;
@@ -65,7 +65,7 @@ img {
 .container {
   background-image: url("StreetFood 3.png");
   height: 1100px;
-  width: 1300px;
+  width: 1250px;
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -91,5 +91,10 @@ img {
   color: #6CB840;
 }
 vl {
-  border-bottom: 1px dotted #000;
+  border: 1px dashed #6CB840;
+}
+
+.contact4 {
+  text-align: right;
+  text-align: justify;
 }
