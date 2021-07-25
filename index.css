@@ -4,6 +4,9 @@ h4{
     color: black;
     font-size: 1.5em;
 }
+.header {
+  margin-left: 50px;
+}
 ul {
     list-style-type: none;
     margin: 2%;
@@ -11,8 +14,9 @@ ul {
 }
 li {
     display: inline;
-    margin: 2.8%;
-    font-size: 1.2em;
+    margin: 60px;
+    font-size: 1.25em;
+    margin-right: 20px;
 }
 p{
     text-align: left;
@@ -43,4 +47,25 @@ img {
 }
 .menu {
   text-align: center;
+}
+.flexbox-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item1 {
+  background-image: url("juice.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 600px;
+  width: 400px;
+}
+.hot img {
+  position: absolute;
+}
+.container {
+  background-image: url("StreetFood 3.png");
+  height: 1100px;
+  width: 1300px;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
