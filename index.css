@@ -47,6 +47,7 @@ img {
 }
 .menu {
   text-align: center;
+  background-color: lightgrey;
 }
 .flexbox-container {
   display: flex;
@@ -106,10 +107,14 @@ vl {
   display: inline-grid;
   grid-template-columns: auto auto auto;
   padding: 10px;
+  background-color: lightgrey;
 }
 .grid-item {
   border: 1px;
   padding: 20px;
   float: left;
   text-align: center;
+}
+.hot {
+  background-color: lightgreen;
 }
