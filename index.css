@@ -97,4 +97,19 @@ vl {
 .contact4 {
   text-align: right;
   text-align: justify;
+}.burger {
+  display: inline;
+  margin-left: 2%;
+  float: inline-end;
+}
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.grid-item {
+  border: 1px;
+  padding: 20px;
+  float: left;
+  text-align: center;
 }
