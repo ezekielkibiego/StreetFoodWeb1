@@ -57,7 +57,7 @@ img {
   background-image: url("juice.png");
   background-repeat: no-repeat;
   background-size: contain;
-  height: 600px;
+  height: 200px;
   width: 400px;
 }
 .hot img {
@@ -117,4 +117,16 @@ vl {
 }
 .hot {
   background-color: lightgreen;
+}
+.grid {
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.item {
+  border: none;
+  padding: 30px;
+  text-align: center;
+  float: left;
+  margin: 50px;
 }
