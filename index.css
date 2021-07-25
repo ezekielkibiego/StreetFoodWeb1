@@ -90,3 +90,6 @@ img {
 .tablink {
   color: #6CB840;
 }
+vl {
+  border-bottom: 1px dotted #000;
+}
