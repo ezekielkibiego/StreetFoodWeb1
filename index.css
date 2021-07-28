@@ -83,20 +83,28 @@ img {
   text-align: center;
 }
 .nav {
+  border: none;
   text-align: center;
+  border-radius: 20px;
 }
 .tab {
+  border: none;
   text-align: center;
   border-radius: 20px;
   border-color: #6CB840;
 }
 .tablink {
+  border: none;
   background-color: #6CB840;
   border-radius: 20px;
   border-color: #6CB840;
 }
+.placeholder {
+  border-radius: 20px;
+}
 vl {
   border: 1px dashed #6CB840;
+  height: 10cm;
 }
 
 .contact4 {
