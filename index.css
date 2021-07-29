@@ -137,18 +137,20 @@ vl {
   padding: 10px;
 }
 .item {
-  border: none;
   padding: 30px;
   text-align: center;
   float: left;
-  margin: 50px;
-  z-index: 2;
+  margin: 30px;
+  background-color: #C9ECB5;
+  border-right: 2px dotted #6CB840;
 }
 #tab {
   margin-left: 120px;
+  border: none;
 } 
 #tablink {
   background-color: #6CB840;
   border-radius: 20px;
   border-color: #6CB840;
+  border: none;
 }
