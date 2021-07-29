@@ -6,6 +6,7 @@ h4{
 }
 .header {
   margin-left: 50px;
+  color: black;
 }
 ul {
     list-style-type: none;
@@ -46,7 +47,7 @@ img {
   padding-left: 20px;
   font-style: poppins;
 }
-#our menu {
+#our-menu {
   text-align: center;
   background-color: lightgrey;
 }
