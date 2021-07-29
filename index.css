@@ -31,6 +31,7 @@ p{
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: -400px;
 }
 
 img {
@@ -153,4 +154,12 @@ vl {
   border-radius: 20px;
   border-color: #6CB840;
   border: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+
+}
+#contact {
+  background-color: #FFD77C;
 }
