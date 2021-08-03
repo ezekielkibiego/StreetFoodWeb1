@@ -40,7 +40,6 @@ p{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: -400px;
 }
 
 img {
@@ -62,7 +61,6 @@ img {
 }
 .item-1 {
   position: absolute;
-  bottom: 500px;
   top: 1410px;
 }
 .item-2 {
@@ -94,8 +92,9 @@ img {
   position: absolute;
 }
 .container {
-  height: 1100px;
-  width: 1250px;
+  padding-bottom: 200px;
+  padding-top: 10px;
+  background-color: #c1c4bf;
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -194,4 +193,16 @@ a{
 }
 #footer {
   background-color: #6CB840;
+}
+.ellipse{
+  position: absolute;
+  height: 800px;
+  width: 1150px;
+  left: 450px;
+  top: -400px;
+  border-radius: 50%;
+  opacity: 0.4;
+  background-color: lightgreen;
+
+
 }
