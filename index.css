@@ -4,14 +4,10 @@ h4{
     color: black;
     font-size: 1.5em;
 }
-.eclipse {
-  position: absolute;
-  background-color: #6CB840;
-  border-radius: 126px 126px 126px 0;
-}
 .title {
   text-align: center;
   font-size: 15px;
+  font-weight: bolder;
 }
 .header {
   margin-left: 50px;
@@ -61,13 +57,15 @@ img {
 }
 .item-1 {
   position: absolute;
-  top: 1410px;
+  top: 1270px;
+  padding-top: 50px;
 }
 .item-2 {
   position: relative;
   left: 55px;
   top: 50px;
   bottom: 100px;
+  padding-top: 50px;
 }
 .item-3 {
   text-align: center;
